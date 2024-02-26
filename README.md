@@ -10,7 +10,7 @@ I am a Full-Stack Developer felt in love with prototyping hardware stuff. Oh, an
  * 👨🏻‍💻 I’m currently working on [gpt-uncertainty](https://github.com/lucabrini/gpt-uncertainty/) and other personal projects
  * 🌐 Check out my [portfolio](https://lucabrini.dev/)
  * 📝 You can contact me [here](https://lucabrini.dev/contact-me) or [here](https://www.youtube.com/watch?v=xvFZjo5PgG0)
- * 
+   
 ---
 
 
