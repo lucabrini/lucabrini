@@ -31,8 +31,6 @@ I am a Full-Stack Developer felt in love with prototyping hardware stuff. Oh, an
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" >
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" >
   <img src="https://img.shields.io/badge/3d%20modelling%20&%20printing-d2d2d2?style=for-the-badge" >
-</div>
-<div>
   <img src="http://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=java&logoColor=white" > 
   <img src="https://img.shields.io/badge/-C%23%0A%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" > 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" > 
