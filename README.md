@@ -5,7 +5,7 @@
   <img src="https://github.com/lucabrini/lucabrini/assets/86363063/a1944b74-0be8-44ea-bbc2-952a7ac6cf2b" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-Stack Developer felt in love with prototyping hardware stuff. Oh, and I'm also majoring in Computer Science [@unimib](https://en.unimib.it/)
+I am a Full-Stack Developer felt in love with prototyping hardware stuff. Oh, and I've also majored in Computer Science [@unimib](https://en.unimib.it/)
  
  * 👨🏻‍💻 I’m currently working on [gpt-uncertainty](https://github.com/lucabrini/gpt-uncertainty/) and other personal projects
  * 🌐 Check out my [portfolio](https://lucabrini.dev/)
