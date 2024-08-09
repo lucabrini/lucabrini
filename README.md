@@ -7,7 +7,7 @@
 
 I am a Full-Stack Developer felt in love with prototyping hardware stuff. Oh, and I've also majored in Computer Science [@unimib](https://en.unimib.it/)
  
- * 👨🏻‍💻 I’m currently working on [gpt-uncertainty](https://github.com/lucabrini/gpt-uncertainty/) and other personal projects
+ * 👨🏻‍💻 I’m currently following [gpt-uncertainty](https://github.com/lucabrini/gpt-uncertainty/) and working on several customers' and personal projects
  * 🌐 Check out my [portfolio](https://lucabrini.dev/)
  * 📝 You can contact me [here](https://lucabrini.dev/contact-me) or [here](https://www.youtube.com/watch?v=xvFZjo5PgG0)
    
@@ -35,12 +35,12 @@ I am a Full-Stack Developer felt in love with prototyping hardware stuff. Oh, an
   <img src="https://img.shields.io/badge/-C%23%0A%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" > 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" > 
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" >
+  <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" > 
+  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" >
 </div>
 
 ### What I'm cooking on
 <div>
-  <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" > 
-  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" >
   <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" >
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" >
 </div>
