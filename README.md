@@ -6,10 +6,6 @@
 </p>
 
 I am a Full-Stack Developer felt in love with prototyping hardware stuff. Oh, and I've also majored in Computer Science [@unimib](https://en.unimib.it/)
- 
- * 👨🏻‍💻 I’m currently following [gpt-uncertainty](https://github.com/lucabrini/gpt-uncertainty/) and working on several customers' and personal projects
- * 🌐 Check out my [portfolio](https://lucabrini.dev/)
- * 📝 You can contact me [here](https://lucabrini.dev/contact-me) or [here](https://www.youtube.com/watch?v=xvFZjo5PgG0)
    
 ---
 
